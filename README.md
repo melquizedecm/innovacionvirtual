@@ -1,13 +1,13 @@
 # Cómputo en la Nube en México
 
-## Propidad intelectual y cobertura, los retos.  🚀
+## Propiedad intelectual y cobertura, los retos.  🚀
 
 
 ### Information 📋
 
-_Si bien en los últimos dos años, México logró escalar dos lugares en el ranking internacional de cómputo en la nube, derivado de un positivo entorno legal y regulatorio, el país aún enfrenta diversos desafíos para ofrecer una infraestructura de Tecnología de la Información (TI) moderna.
+Si bien en los últimos dos años, México logró escalar dos lugares en el ranking internacional de cómputo en la nube, derivado de un positivo entorno legal y regulatorio, el país aún enfrenta diversos desafíos para ofrecer una infraestructura de Tecnología de la Información (TI) moderna.
 
-De acuerdo con el estudio Global Cloud Computing Scorecard 2018, elaborado por la BSA The Software Alliance, en 2016 México ocupaba el lugar número 15 en una lista de 24 economías, posición que en 2018 mejoró para situarse en el sitio 13._
+De acuerdo con el estudio Global Cloud Computing Scorecard 2018, elaborado por la BSA The Software Alliance, en 2016 México ocupaba el lugar número 15 en una lista de 24 economías, posición que en 2018 mejoró para situarse en el sitio 13.
 
 
 <img src="https://www.consumotic.mx/wp-content/uploads/2018/04/Captura-de-pantalla-2018-04-03-a-las-13.10.48.png">
