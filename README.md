@@ -1,18 +1,11 @@
+Propidad intelectual y cobertura, los retos.
+Si bien en los últimos dos años, México logró escalar dos lugares en el ranking internacional de cómputo en la nube, derivado de un positivo entorno legal y regulatorio, el país aún enfrenta diversos desafíos para ofrecer una infraestructura de Tecnología de la Información (TI) moderna.
 
-jobs:
-  render:
-    name: Render README
-    runs-on: macOS-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: r-lib/actions/setup-r@v1
-      - uses: r-lib/actions/setup-pandoc@v1
-      - name: Install rmarkdown
-        run: Rscript -e 'install.packages("rmarkdown")'
-      - name: Render README
-        run: Rscript -e 'rmarkdown::render("README.Rmd")'
-        
-      - name: Commit results
-        run: |
-          git commit README.md -m 'Re-build README.Rmd' || echo "No changes to commit"
-          git push origin || echo "No changes to commit"
+De acuerdo con el estudio Global Cloud Computing Scorecard 2018, elaborado por la BSA The Software Alliance, en 2016 México ocupaba el lugar número 15 en una lista de 24 economías, posición que en 2018 mejoró para situarse en el sitio 13.
+
+https://raw.githubusercontent.com/melquizedecm/innovacionvirtual/master/readme.png
+
+Gráfica de barras con nombres y posiciones de países analizados.
+“MÉXICO HA IMPLEMENTADO MUCHAS LEYES CIBERNÉTICAS RELEVANTES, QUE INCLUYEN LEGISLACIÓN SOBRE PRIVACIDAD, REGLAS SOBRE NOTIFICACIÓN DE VIOLACIÓN DE DATOS Y LEGISLACIÓN ACTUALIZADA SOBRE CIBERDELINCUENCIA”, INDICÓ EL ESTUDIO.
+
+Sin embargo, existen puntos de mejora como la protección y aplicación de la propiedad intelectual; brecha en la cobertura legal, y que el estándar para el enjuiciamiento de delitos contra la propiedad intelectual es alto.
