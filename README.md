@@ -1,10 +1,6 @@
-# Título del Proyecto
+# Cómputo en la Nube en México
 
-_Cómputo en la nube_
-
-## Comenzando 🚀
-
-_Propidad intelectual y cobertura, los retos._
+## Propidad intelectual y cobertura, los retos.  🚀
 
 
 ### Information 📋
